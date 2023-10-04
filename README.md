@@ -6,7 +6,6 @@
 ### `npm install`
 
 ## for backend server
-### `cd backend`
 ### `npm start`
 
 ### Note:Open second terminal for frontend server
